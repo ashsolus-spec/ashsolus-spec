@@ -1,16 +1,49 @@
-## Hi there 👋
+<div align="center">
+  <img width="1280" height="512" alt="ash-solus-wide-animated-banner (1)" src="https://github.com/user-attachments/assets/b7395322-96ee-4e75-8ea9-39332c637474" />
+</div>
 
-<!--
-**ashsolus-spec/ashsolus-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## SYSTEM STATUS
 
-Here are some ideas to get you started:
+<pre>
+┌─────────────────────────────────────────────────┐
+│                                                 │
+│  SYSTEM STATUS                                  │
+│                                                 │
+│  ████████████████████████████  ONLINE           │
+│                                                 │
+│  BUILDING        ████████████████████           │
+│  EXPLORING       ████████████████░░░░           │
+│  LEARNING        █████████████████░░░           │
+│  EXPERIMENTING   ████████████████████           │
+│                                                 │
+└─────────────────────────────────────────────────┘
+</pre>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## THINGS THAT CATCH MY INTEREST
+
+<pre>
+┌──────────────────────────────────────────────┐
+│                                              │
+│  THINGS THAT CATCH MY INTEREST               │
+│                                              │
+│  SOFTWARE        ████████████████████        │
+│  SYSTEMS         ████████████████████        │
+│  AI              ██████████████████░░        │
+│  INTERFACES      ████████████████░░░░        │
+│  EXPERIMENTS     ████████████████████        │
+│  OPEN SOURCE     ████████████████████        │
+│  DIGITAL ART     ██████████████░░░░░░        │
+│  SPACE           ████████████████████        │
+│                                              │
+└──────────────────────────────────────────────┘
+</pre>
+
+
+---
+## DON'T LIKE
+
+### Agentic Terminals
+
+> "What do you mean I need to prompt for a command?"
